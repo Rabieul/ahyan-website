@@ -128,7 +128,7 @@ h3{color:var(--light);font-weight:500}
 .iso-badges-row span{padding:6px 14px;border:1px solid rgba(168,48,48,.35);font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;color:var(--red)}
 
 .md-grid{display:grid;grid-template-columns:320px 1fr;gap:70px;align-items:start}
-.md-photo{width:100%;display:block;}
+.md-photo{width:100%;display:block;filter:contrast(1.08) brightness(1.02)}
 .md-nameplate{background:var(--maroon);padding:20px 24px}
 .md-nameplate strong{display:block;font-family:'Cormorant Garamond',serif;font-size:1.3rem;font-weight:600;color:var(--white);margin-bottom:4px}
 .md-nameplate span{display:block;font-size:.7rem;letter-spacing:.1em;text-transform:uppercase;color:rgba(255,255,255,.65);line-height:1.6}
